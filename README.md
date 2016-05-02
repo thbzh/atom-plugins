@@ -4,7 +4,7 @@ some awesome atom-plugins !
 ---
 
 
-![demo](http://file06.16sucai.com/2016/0321/8a404146f33c074173c10d52e2d5fa3f.jpg)
+![demo](http://d3.freep.cn/3tb_160502220124f67d562971.png)
 
 ---
 
