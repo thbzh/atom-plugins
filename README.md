@@ -70,7 +70,9 @@ some awesome atom-plugins !
     给windows添加打开快捷方式
 ## 27. open-in-browser
     默认程序打开代码
-## 28. sound && keyboard-sound && typewriter-sound
+## 28. sound
+    keyboard-sound
+    typewriter-sound
     敲代码声音
 ## 29. video-player
     背景播放视频
