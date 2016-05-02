@@ -98,7 +98,9 @@ some awesome atom-plugins !
 
 
 
+---
 
+![demo](http://d3.freep.cn/3tb_16050222010054pf562971.png)
 
 
 
