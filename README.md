@@ -6,6 +6,8 @@ some awesome atom-plugins !
 
 ![demo](http://d3.freep.cn/3tb_160502220124f67d562971.png)
 
+
+
 ---
 
 ## 1. emmet
@@ -45,7 +47,7 @@ some awesome atom-plugins !
     tool-bar-shortcuts //可以自选选项
     左侧工具栏
 ## 16. atom-html-preview
-	预览lhtml页面
+    预览lhtml页面
 ## 17. vim-mode
     atom添加vin模式
 ## 18. pigment
@@ -95,6 +97,28 @@ some awesome atom-plugins !
     ctags-status //类，函数，作用域
 ## 36. menu-manager
     顶部菜单管理
+## 37. php-class-tree
+    php类和方法树状图
+## 38. Nuclide
+    Facebook的IDE
+## 39. Script
+    在编辑器里运行代码
+## 40. remote-edit
+    编辑服务器上的文件
+## 41. remote-sync
+    同步服务器上的文件
+## 42. remote-ftp
+    服务器文件的树状结构显示
+## 43. browser-plus
+    浏览器
+## 44. preview-plus
+    浏览一切
+## 45. open-in-browser
+    在浏览器打开 
+
+
+
+---
 
 
 
