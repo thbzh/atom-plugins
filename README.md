@@ -10,6 +10,7 @@ some awesome atom-plugins !
 
 ---
 
+
 ## 1. emmet
     html补全
 ## 2. active-power-mode
@@ -40,9 +41,9 @@ some awesome atom-plugins !
     jsx扩展
 ## 14. markdown-preview-plus
     markdown预览
-## 15. tool-bar 
-    toolbar-iconshortcuts 
-    tool-bar-atom 
+## 15. tool-bar
+    toolbar-iconshortcuts
+    tool-bar-atom
     tool-bar-shortcut //功能丰富
     tool-bar-shortcuts //可以自选选项
     左侧工具栏
@@ -114,8 +115,13 @@ some awesome atom-plugins !
 ## 44. preview-plus
     浏览一切
 ## 45. open-in-browser
-    在浏览器打开 
-
+    在浏览器打开
+## 46. language-babel
+    jsx语法
+## 47. games
+    atom-2048
+    snake
+    tetromino
 
 
 ---
