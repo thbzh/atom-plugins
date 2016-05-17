@@ -4,7 +4,7 @@ some awesome atom-plugins !
 ---
 
 
-![demo](http://d3.freep.cn/3tb_160502220124f67d562971.png)
+![demo](http://kompasim.github.io/images/atom-plugin/atom2.png)
 
 
 
@@ -130,7 +130,7 @@ some awesome atom-plugins !
 
 ---
 
-![demo](http://d3.freep.cn/3tb_16050222010054pf562971.png)
+![demo](http://kompasim.github.io/images/atom-plugin/atom1.png)
 
 
 
