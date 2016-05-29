@@ -25,7 +25,7 @@ some awesome atom-plugins !
     chrome里面的编辑框直接在atom编辑
 ## 6. minimap
     源码预览图，提供丰富的自定义选项
-## 7. file-icons
+## 7. file-icons || file-icon-supplement
     显示文件类型对应的图标。
 ## 8. atom-beautify
     格式化代码，更统一的代码风格。
@@ -35,8 +35,10 @@ some awesome atom-plugins !
     给每个语言独立设置扩展和功能
 ## 11. atom-terminal-panel
     atom内置命令行工具
-## 12. git-control
-    git面板
+## 12. Git
+    git-control git面板
+    git-controlhub git面板
+    open-gitub  在atom打开gitub
 ## 13. language-JavaScript-jsx
     jsx扩展
 ## 14. markdown-preview-plus
@@ -59,8 +61,10 @@ some awesome atom-plugins !
     给某个文件夹php服务器启动
 ## 20. live-server
     自动刷新的服务器
-## 21. atom-react-preview
-    react预览
+## 21. React
+    atom-react-preview  react预览
+    react 语法支持
+    atom-react-native-autocomplete RN代码补全
 ## 22. tree-view-git-status
     文件夹git状态
 ## 23. tree-view-background
@@ -122,6 +126,57 @@ some awesome atom-plugins !
     atom-2048
     snake
     tetromino
+## 48. markdown-preview && markdown-scroll-synic
+    将markdown-preview编辑区和预览区同步滚动
+## 49. markdown-writer
+    方便管理markdown里的图片和链接
+## 50. markdown-table-format
+    格式化markdown的表格
+## 51. atom-hexo
+    atom编辑器里执行hexo命令写博客
+## 52. github-issure
+    github-issure帮助工具
+## 53. github
+    github-user-dataip  显示文档里github账号的详细信息
+    create-github-repo  创建github repository
+    my-github-profile  显示自己github信息在状态栏
+    github-notification 通知github消息
+    gist-it 快速分享代码到gist.github.com(可惜天朝用不了gist)
+## 54. sourcerer
+    根据遇到的问题查找stackoverflow代码片段
+## 55. ask-stack
+    在atom快速提问stackoverflow
+## 56. debug
+    node-debugger
+    php-debug
+    python-debugger
+    swift-debugger
+    go-debug
+    ...
+## 57. file-header || header-42
+    给当前编辑文件添加用户时间等头部信息
+## 58 atom-minify || uglify
+    js 代码混淆
+## 59. atom-bautifiy
+    美化一切代码
+
+## 60. atom-music
+    本地音乐播放器
+## 61. musicBox
+    atomn内嵌listenvideo.com
+## 62. youtube-pane || playyoutube
+    atom内嵌youtube
+## 63. themed-settings
+    美化设置面板
+## 64. markdown-themeable-pdf
+    markdown转换成pdf,html,png
+## 65. jupyter-notebook || note-book
+    atom内嵌notebook
+## 66. markdown-scroll-sync
+    当markdown-preview时编辑框和预览框同步
+## 67. autocomplete-python
+    python代码自动补全
+
 
 
 ---
