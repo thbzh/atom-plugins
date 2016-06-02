@@ -176,7 +176,19 @@ some awesome atom-plugins !
     当markdown-preview时编辑框和预览框同步
 ## 67. autocomplete-python
     python代码自动补全
-
+## 68. javascript-snippets
+    输入特殊的字符后自动扩展成对应的 Javascript 代码片段
+## 69. go-to-line
+    跳转到指定的行，只要 ctrl + g 后输入行号即可
+## 70. atom-ternjs
+    js,nodejs,es6补全
+## 71. regex-railroad-diagram
+    正则表达式图形化
+## 72. atom-shell-commands
+    自定义shell命令
+## 73. advanced-open-file
+    通过 Cmd-Alt-O/Ctrl-Alt-O 快速的打开文件或新建文件，同时支持路径补全
+    
 
 
 ---
