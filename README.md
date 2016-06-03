@@ -1,6 +1,6 @@
 # atom-plugins
 ---
-some awesome atom-plugins !
+some awesome atom-plugins ! 
 ---
 
 
