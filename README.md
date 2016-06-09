@@ -31,7 +31,7 @@ some awesome atom-plugins !
     格式化代码，更统一的代码风格。
 ## 9. Color Picker
     在编辑器里面挑选颜色。
-## 10. rditor-setting
+## 10. Editor-setting
     给每个语言独立设置扩展和功能
 ## 11. atom-terminal-panel
     atom内置命令行工具
