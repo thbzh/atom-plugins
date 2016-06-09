@@ -188,6 +188,8 @@ some awesome atom-plugins !
     自定义shell命令
 ## 73. advanced-open-file
     通过 Cmd-Alt-O/Ctrl-Alt-O 快速的打开文件或新建文件，同时支持路径补全
+## 74. seti-ui
+	带文件图标的黑色主题
     
 
 
