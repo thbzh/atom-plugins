@@ -183,13 +183,41 @@ some awesome atom-plugins !
 ## 70. atom-ternjs
     js,nodejs,es6补全
 ## 71. regex-railroad-diagram
-    正则表达式图形化
+    正则表达式图形化显示
 ## 72. atom-shell-commands
     自定义shell命令
 ## 73. advanced-open-file
     通过 Cmd-Alt-O/Ctrl-Alt-O 快速的打开文件或新建文件，同时支持路径补全
 ## 74. seti-ui
 	带文件图标的黑色主题
+## 75. php-cx-fixer
+	运行php
+## 76. git-log
+	图形化git提交记录
+## 77. pretty-json
+	格式化json数据
+## 78. drag-drop-text
+	用鼠标复制剪切粘贴文本
+## 79. to-base64 | base64
+	文件转base64
+## 80. draw-on-image
+	截屏和编辑图片
+## 81. command-toolbar
+	个性化atom的各个按钮命令
+## 82. Encourage
+	atom来鼓励你写代码
+## 83. platformio-ide-terminal
+	又是一个很棒的terminal
+## 84. platformio-ide-terminal
+	自动隐藏树状文件面板
+## 85. slack-chat
+	slack的atom内置客户端
+## 86. atomic-game-engine
+	游戏引擎
+## 87. canvas-snippets
+	html5的canvas代码片段
+## 88. draw-package
+	文件里画图形
     
 
 
