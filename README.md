@@ -7,7 +7,6 @@ some awesome atom-plugins !
 ![demo](http://kompasim.github.io/images/atom-plugin/atom3.png)
 
 
-
 ---
 
 
@@ -222,8 +221,6 @@ some awesome atom-plugins !
 ## 89. open-in-browsers
 	在安装过的任意浏览器打开代码
  
-
-## 666. [sublime-text-plugins](https://github.com/kompasim/atom-plugins/blob/master/sublime-text-plugins.png)
 
 ---
 
