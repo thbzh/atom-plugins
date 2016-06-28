@@ -219,6 +219,8 @@ some awesome atom-plugins !
 	html5的canvas代码片段
 ## 88. draw-package
 	文件里画图形
+## 89. open-in-browsers
+	在安装过的任意浏览器打开代码
     
 
 
