@@ -220,6 +220,11 @@ some awesome atom-plugins !
 	文件里画图形
 ## 89. open-in-browsers
 	在安装过的任意浏览器打开代码
+## 90. lunar-particle-ui | seti-ui
+    最漂亮的两个主题
+## 91. atom-monokai | monokai
+    最漂亮的两个语法主题
+
  
 
 ---
