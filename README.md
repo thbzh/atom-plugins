@@ -2,7 +2,7 @@
 ---
 some awesome atom-plugins ! 
 --- 
-   
+  
 
 ![demo](http://kompasim.github.io/images/atom-plugin/atom3.png)
 
