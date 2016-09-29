@@ -210,7 +210,7 @@ some awesome atom-plugins !
 	atom来鼓励你写代码
 ## 83. platformio-ide-terminal
 	又是一个很棒的terminal
-## 84. platformio-ide-terminal
+## 84. auto-hide-sidebar
 	自动隐藏树状文件面板
 ## 85. slack-chat
 	slack的atom内置客户端
@@ -226,7 +226,8 @@ some awesome atom-plugins !
     最漂亮的两个主题
 ## 91. atom-monokai | monokai
     最漂亮的两个语法主题
-
+## 62. SyncedSidebarBg
+    侧边树状文件结构的背景和主题背景同步
  
 
 ---
