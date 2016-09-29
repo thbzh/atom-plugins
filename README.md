@@ -210,7 +210,7 @@ some awesome atom-plugins !
 	atom来鼓励你写代码
 ## 83. platformio-ide-terminal
 	又是一个很棒的terminal
-## 84. auto-hide-sidebar
+## 84. auto hide sidebar
 	自动隐藏树状文件面板
 ## 85. slack-chat
 	slack的atom内置客户端
