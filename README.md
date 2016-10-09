@@ -8,7 +8,6 @@ some awesome atom-plugins !
 
 
 
-
 ---
 ...
 
