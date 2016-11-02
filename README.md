@@ -103,6 +103,7 @@ some awesome atom-plugins !
     status-bar-clock
     battery-status
     git-status
+    terminal-status
     ctags-status //类，函数，作用域
 ## 36. menu-manager
     顶部菜单管理
