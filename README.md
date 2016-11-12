@@ -46,11 +46,10 @@ some awesome atom-plugins !
 ## 14. markdown-preview-plus
     markdown预览
 ## 15. tool-bar
-    toolbar-iconshortcuts
-    tool-bar-atom
+    tool-bar-almighty // 我个人喜欢
     tool-bar-shortcut //功能丰富
     tool-bar-shortcuts //可以自选选项
-    左侧工具栏
+    右侧工具栏 （必须把tool-bar和上面三个任意选一个一起安装，只安装一个没有效果的）
 ## 16. atom-html-preview
     预览lhtml页面
 ## 17. vim-mode
