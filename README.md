@@ -158,8 +158,8 @@ some awesome atom-plugins !
     给当前编辑文件添加用户时间等头部信息
 ## 58 atom-minify || uglify
     js 代码混淆
-## 59. atom-bautifiy
-    美化一切代码
+## 59. sync-settings
+    备份同步atom的插件和配置
 
 ## 60. atom-music
     本地音乐播放器
@@ -227,9 +227,7 @@ some awesome atom-plugins !
     最漂亮的两个语法主题
 ## 92. SyncedSidebarBg
     侧边树状文件结构的背景和主题背景同步
- 
-## 93. sync-settings
-    备份同步atom的插件和配置
+
 
 
 
