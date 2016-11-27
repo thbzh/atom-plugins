@@ -10,7 +10,6 @@ some awesome atom-plugins !
 
 
 
-
 ---
 ...
 
