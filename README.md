@@ -225,11 +225,13 @@ some awesome atom-plugins !
 ## 91. atom-monokai | monokai
     最漂亮的两个语法主题
 ## 92. SyncedSidebarBg
-    侧边树状文件结构的背景和主题背景同步
-
-
-
-
+    侧边树状文件结构的背景和主题背景同步
+## 93. api-docs
+    文档查看
+## 94. goto-definition
+    AS的Ctrl+鼠标左键还记得吧	
+    
+    
 ---
 
 
