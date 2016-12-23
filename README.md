@@ -230,6 +230,10 @@ some awesome atom-plugins !
     文档查看
 ## 94. goto-definition
     AS的Ctrl+鼠标左键还记得吧	
+## 95. template-generator
+    代码模板生成器
+## 96. project-viewer
+    项目管理
     
     
 ---
