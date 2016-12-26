@@ -7,7 +7,6 @@ some awesome atom-plugins !
 ![demo](atom1.png)
 
 
-
 ---
 
 ![demo](atom2.png)
