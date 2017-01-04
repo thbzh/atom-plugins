@@ -25,7 +25,7 @@ some awesome atom-plugins !
 ## 3. power-mode
     随地泡沫
 ## 4. atom-miku
-    跳舞的姑娘
+    miku
 ## 5. autocomplete-plus
     当输入的时候，提供可能的候选项。
 ## 5. atomic-chrome
