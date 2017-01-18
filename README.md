@@ -57,7 +57,7 @@ some awesome atom-plugins !
     预览lhtml页面
 ## 17. vim-mode
     atom添加vin模式
-## 18. pigment
+## 18. pigments
     颜色代码着色显示（代码指定的颜色）
 ## 19. autocomplete-modules
     模块名自动补全
