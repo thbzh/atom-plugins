@@ -135,7 +135,7 @@ some awesome atom-plugins !
     atom-2048
     snake
     tetromino
-## 48. markdown-preview && markdown-scroll-synic
+## 48. markdown-preview && markdown-scroll-sync
     将markdown-preview编辑区和预览区同步滚动
 ## 49. markdown-writer
     方便管理markdown里的图片和链接
