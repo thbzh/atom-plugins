@@ -3,7 +3,6 @@
 some awesome atom-plugins ! 
 --- 
 
-
 ![demo](atom1.png)
 
 ---
