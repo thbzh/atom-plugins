@@ -238,6 +238,10 @@ some awesome atom-plugins !
     代码模板生成器
 ## 96. project-viewer
     项目管理
+## 97. Docblockr
+    主流语言给函数和类自动生成文档
+## 98. api-docs | api-docs
+    主流语言的api文档
     
     
 ---
