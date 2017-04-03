@@ -90,7 +90,7 @@ some awesome atom-plugins !
     atom全局背景
 ## 31. hacker-news-background-titles
     黑客新闻标题和打开链接（无文件打开状态下在背景）
-## 32. editor-background
+## 32. editor-background | global-background
     背景图片和视频
 ## 33. server-script
     同步/运行脚本到服务器
