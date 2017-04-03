@@ -86,7 +86,7 @@ some awesome atom-plugins !
     敲代码声音
 ## 29. video-player
     背景播放视频
-## 30. all-times-you-know
+## 30. all-times-you-know | flickr-background
     atom全局背景
 ## 31. hacker-news-background-titles
     黑客新闻标题和打开链接（无文件打开状态下在背景）
