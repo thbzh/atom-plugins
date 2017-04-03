@@ -246,6 +246,8 @@ some awesome atom-plugins !
     Jetbrains家IDE的Ctrl+鼠标右键（爽）
 ## 91. atom-runner
     运行脚本
+## 92. refactor
+    重构
   
   
   
