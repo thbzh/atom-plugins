@@ -242,8 +242,14 @@ some awesome atom-plugins !
     主流语言给函数和类自动生成文档
 ## 98. api-docs | api-docs
     主流语言的api文档
-    
-    
+## 90. hyperclick
+    Jetbrains家IDE的Ctrl+鼠标右键（爽）
+## 91. atom-runner
+    运行脚本
+  
+  
+  
+  
 ---
 
 
