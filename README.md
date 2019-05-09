@@ -253,7 +253,7 @@ some awesome atom-plugins !
     运行脚本
 ## 92. refactor
     重构
-  
+
   
   
   
@@ -273,3 +273,6 @@ some awesome atom-plugins !
 
 
 ---
+
+## 93. open-unsupported-files
+    使用系统软件打开 Doc、Excel、PPT等 Atom 不预览的文件。 
